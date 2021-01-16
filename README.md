@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-    <head><title></title></head>
+    <head></head>
     <body>
       <a href="https://dasunk.github.io/intt_shop/" target="_blank">view the page here</a>
   </body>
